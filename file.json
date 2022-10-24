@@ -1,0 +1,13 @@
+{
+    "username": "1Bo_Dy",
+    "password": "0Bo_Dy",
+    "skills": {
+        "js": 80,
+        "css": 60,
+        "packages": [
+            "axios",
+            "fs",
+            "jsonbyte"
+        ]
+    }
+}
